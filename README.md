@@ -16,3 +16,9 @@ Research | Data Cleaning | Data Modeling | Data Visualization | Exploratory Anal
 ### TECH STACK
 
 Microsoft Excel, SQL, Python, Tableau, Orange, Numpy, Pandas
+
+## Projects and Learning
+
+Please check out my repositories that show some of the projects I have completed and my learning outcomes.
+
+- 
