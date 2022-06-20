@@ -21,4 +21,7 @@ Microsoft Excel, SQL, Python, Tableau, Orange, Numpy, Pandas
 
 Please check out my repositories that show some of the projects I have completed and my learning outcomes.
 
-- 
+- [Projects Portfolio](https://github.com/rohaanzuberi/PortfolioGuide)
+- [DataCamp Projects](https://github.com/rohaanzuberi/DataCamp_Projects)
+- [Ongoing SQL learning](https://github.com/rohaanzuberi/Serious_SQL)
+- [My personalized agile/scrum-based learning framework](https://github.com/rohaanzuberi/My-personalized-Agile-framework-for-learning-data-analytics-skills)
