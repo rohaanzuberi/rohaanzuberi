@@ -7,7 +7,7 @@ I'm a data enthusiast and professional that loves telling stories with data and 
 
 An intrinsic drive to be the best helped me accomplishing a Master's degree, Master of Applied Business Analytics - Technology Innovation Management from Carleton University. Here I got to learn advanced data analysis skills leveraging current and most innovative technologies, collaborating with like-minded peers and improve my soft-skills through delivery of presentations and reports.
 
-😎 Apart from analytics, I love traveling and photographing landscapes and cityscapes. I have traveled over 25 countries and my photos of Dubai were published by Emirates Airline as part of a tourism campaign on their in-flight entertainment system that ran across all flight destinations for 3 months.
+😎 Apart from analytics, I love traveling and photographing landscapes and cityscapes. I have traveled over 25 countries and my photos of Dubai were published by Emirates Airline as part of a tourism campaign on their in-flight entertainment system that ran across 150+ destinations in 85 countries for 3 months.
 
 ### CORE COMPETENCIES
 
