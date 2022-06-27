@@ -25,3 +25,4 @@ Please check out my repositories that show some of the projects I have completed
 - [DataCamp Projects](https://github.com/rohaanzuberi/DataCamp_Projects)
 - [Ongoing SQL learning](https://github.com/rohaanzuberi/Serious_SQL)
 - [My personalized agile/scrum-based learning framework](https://github.com/rohaanzuberi/My-personalized-Agile-framework-for-learning-data-analytics-skills)
+- [Strategic Thinking](https://github.com/rohaanzuberi/Strategic_Thinking/blob/5da9847092d32464351c4d9c58f7ebf82c470e8b/README.md)
